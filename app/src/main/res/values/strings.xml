@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IonAutoSignup</string>
+    <string name="info">Enter Username and Password: (Leave blank to use stored credentials)</string>
+    <string name="btn">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="block_array">
+        <item>Wednesday A</item>
+        <item>Wednesday B</item>
+        <item>Friday A</item>
+        <item>Friday B</item>
+        <item>Other</item>
+    </string-array>
+</resources>
