@@ -4,10 +4,11 @@
     <string name="btn">Login</string>
     <string name="title_activity_main">MainActivity</string>
     <string-array name="block_array">
+        <item>Select an 8th period</item>
         <item>Wednesday A</item>
         <item>Wednesday B</item>
         <item>Friday A</item>
         <item>Friday B</item>
-        <item>Other</item>
     </string-array>
+    <string name="signup">Sign Up</string>
 </resources>
